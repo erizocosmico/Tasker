@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Tasker' target in the 'Tasker' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
